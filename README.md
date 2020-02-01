@@ -1,7 +1,15 @@
-# ARc-Electric Wiki
+# ARc-Light Wiki
  
- This GitHub repository is meant to be a wiki containing information on the ARc-Electric Application. This wiki is for anyone trying to learn more about the ARc-Electric project from a user standpoint.
+ This GitHub repository is meant to be a wiki containing information on the ARc-Electric Application. This wiki is for anyone interested in learning more about the ARc-Electric project from a user standpoint. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-light project in a more simple, non-technical user-friendly way.
 
+This wiki will contain useful information about the ARc-Light project, and will also highlight specific use cases where it could be helpful. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
 
+## Sections
 
-This GitHub based product wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md). 
+* [What is ARc-Light?](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/What_is_ARc-Light%3F.md)
+* [A look at the user interface](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/user-interface.md)
+* [Compatible Devices](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
+* [Frequently Asked Questions](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/FAQs.md)
+* [The Creators of ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
+
+*This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
