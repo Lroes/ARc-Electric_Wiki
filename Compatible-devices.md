@@ -13,4 +13,4 @@ Device must be Android 7.0 or higher
 ARc-Light is only compatible with Android and IOS Operating systems, and will not function with Blackberry or Windows Mobile Operating Systems.
 
 ## Exceptions
-Unfortunately some Android and Apple devices are not supported for AR, despite having an up to date operating system. This resource from Google can be helpful for determining if your device is supported. https://developers.google.com/ar/discover/supported-devices
+Unfortunately some Android and Apple devices are not supported for AR, despite having an up-to-date operating system. This resource from Google can be helpful for determining if your device is supported. https://developers.google.com/ar/discover/supported-devices
