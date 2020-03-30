@@ -33,4 +33,4 @@ Long answer: Check out our [Software Requirements Specification](https://1drv.ms
 
 
 ### I have more questions, how can I contact you?
-Head over to our [contact page]() and shoot one of us an email! We'll do our best to get back to you!
+Head over to our [contact page](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md) and shoot one of us an email! We'll do our best to get back to you!
