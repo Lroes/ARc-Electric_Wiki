@@ -14,7 +14,7 @@ Fun Fact:
 
 ### Randy Lefebvre
 Email: rlefebvre2256@conestogac.on.ca
-[Linkedin]()  
+[Linkedin](https://www.linkedin.com/in/randy-lefebvre-a911481a6?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B7PvN9T5oQVqfkXAKgOGhkw%3D%3D)  
 Fun Fact:
 
 ### Lucas Roes
