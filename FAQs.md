@@ -29,7 +29,7 @@ That's a big question!
 
 Short answer: We made ARc-Light using Unity and AR Foundation.
 
-Long answer: Check out our [Software Requirements Specification](https://1drv.ms/w/s!Aouocz2JfuPagcEwvtEJoEqcvWnikQ?e=U78O9v) or our [How it Works]() wiki page for a more technical overview.
+Long answer: Check out our [Software Requirements Specification](https://1drv.ms/w/s!Aouocz2JfuPagcEwvtEJoEqcvWnikQ?e=U78O9v) for a more technical, detailed view.
 
 
 ### I have more questions, how can I contact you?
