@@ -7,7 +7,7 @@ Many people who are new to Augmented Reality might reasonably wonder if their mo
 Device must be IOS 11 or higher.
 
 ## Android
-Device must be Android 7.0 or higher
+Device must be Android 7.0(Nougat) or higher.
 
 ## Other
 ARc-Light is only compatible with Android and IOS Operating systems, and will not function with Blackberry or Windows Mobile Operating Systems.
