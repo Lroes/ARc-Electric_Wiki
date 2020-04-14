@@ -7,7 +7,7 @@ This wiki will contain useful information about the ARc-Light project, and will 
 ## Sections
 
 * [What is ARc-Light?](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/What_is_ARc-Light%3F.md)
-* [A basic walkthrough of ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/user-interface.md)
+* [How to use ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/user-interface.md)
 * [Compatible Devices](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
 * [Frequently Asked Questions](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/FAQs.md)
 * [The creators of ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
