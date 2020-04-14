@@ -11,7 +11,7 @@ This wiki will contain useful information about the ARc-Light project, and will 
 * [Compatible Devices](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
 * [Frequently Asked Questions](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/FAQs.md)
 * [The creators of ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
-* [Our Software Requirements Specification](https://1drv.ms/w/s!Aouocz2JfuPagcEwvtEJoEqcvWnikQ?e=U78O9v)
+* [Our Software Requirements Specification](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
 
 *This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
