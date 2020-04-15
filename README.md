@@ -10,8 +10,6 @@
 
 </div>
 
----
-
 <p align="center"> 
  
  This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way.
@@ -20,7 +18,7 @@
     <br> 
 </p>
 
-## Sections
+## 📝 Table of Contents
 
 * [What is ARc-Light?](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/What_is_ARc-Light%3F.md)
 * [How to use ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/How-To-Use-ArcLight.md)
