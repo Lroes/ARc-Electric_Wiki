@@ -1,4 +1,4 @@
-# Basic Overview
+# How to use ARc-Light
 
 This page will walk through the UI and operation of the ARc-Light application, and give a hands-on, visual preview.
 
@@ -14,7 +14,7 @@ To place a light, slowly move your device around until the camera detects a plan
   
 Once a plane has been detected, and you have a light selected, You can place the light by tapping anywhere within the plane.
 
-### Adjust a light
+## Individual Light Settings
 There are several different ways to adjust lights:
 
 #### Rotate
@@ -31,6 +31,10 @@ To delete a single light, double tap on the light you want to delete. When the r
 
 To delete all the placed lights, tap on the settings menu in the top right corner and select the trash can icon.
 
+## General Settings
+
 ### Take a Screenshot
 To take a screenshot, select the menu in the top right corner, then tap on the camera icon. A screenshot will be saved to your device, and an screen will appear to share the image through email or social media. The screenshot feature automatically hides the UI, to give you a good view of the picture.
+
+### Delete All Lights
 
