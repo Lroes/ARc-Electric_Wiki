@@ -1,6 +1,6 @@
 ![ARc-Light Logo](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/MicrosoftTeams-image.png)
 
-<h3 align="center">ARc-Light Wiki</h3>
+<h1 align="center">ARc-Light Wiki</h1>
  
  <div align="center">
 
