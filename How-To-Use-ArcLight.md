@@ -1,6 +1,6 @@
 # How to use ARc-Light
 
-This page will walk through the UI and operation of the ARc-Light application, and give a hands-on, visual preview.
+This page will walk through the UI and operation of the ARc-Light application, and give hands-on, visual tutorials on each feature.
 
 
 ### Open ARc-Light
@@ -15,21 +15,26 @@ To place a light, slowly move your device around until the camera detects a plan
 Once a plane has been detected, and you have a light selected, You can place the light by tapping anywhere within the plane.
 
 ## Individual Light Settings
-There are several different ways to adjust lights:
+There are several different ways to adjust individual lights. In order to adjust a light, double tap on it. A radial menu will appear around the light.
 
-#### Rotate
-You can rotate a light by double tapping on the light. When the radial menu pops up, select the rotate icon. This will allow you to rotate the light with two fingers on the screen.
+### Turn Light On/Off
+Inside the radial menu, tap on the "crossed-out lightbulb" icon. This will toggle the light on or off. If the light is toggled off, it will not cast light. 
 
-#### Move Light
-To move the light, place your finger on the light, and drag it where you want it to go.
+### Adjust Colours and/or Brightness
+Inside the radial menu, tap on the "lightbulb and gear" icon. This will allow you to adjust the colour, range, and intensity of the light.
 
-#### Adjust Colours and/or Brightness
-You can adjust the colour and brightness of a light by double tapping on a light. When the radial menu pops up, select the colour icon. This will allow you to adjust the colour and intensity of the light.
+### Adjust Camera Bloom and Ambient Occlusion
+Inside the radial menu, tap on the "video settings" icon. This will allow you to adjust the camera bloom and ambient occlusion around the light. Camera Bloom is a shader effect that helps with the illusion that a light is glowing. Ambient Occlusion is a shader effect used to create more realistic light and shadows. Both of these settings are quite subtle in ARc-Light, and you will likely see very little difference when adjusting them.
+
+### Rotate Light
+Inside the radial menu, tap on the icon of a object being rotated. This rotation menu will allow you to adjust the light on its x, y, and z axis.
+
+### Flip Light upside down
+Inside the radial menu, tap on the icon that shows two triangles mirroring each other. This will instantly flip the light 180 degrees. This is useful if a light you have placed is in the opposite orientation of what you want it to be.
 
 ### Delete a light
 To delete a single light, double tap on the light you want to delete. When the radial menu pops up, tap the trash can icon.
 
-To delete all the placed lights, tap on the settings menu in the top right corner and select the trash can icon.
 
 ## General Settings
 
@@ -37,4 +42,4 @@ To delete all the placed lights, tap on the settings menu in the top right corne
 To take a screenshot, select the menu in the top right corner, then tap on the camera icon. A screenshot will be saved to your device, and an screen will appear to share the image through email or social media. The screenshot feature automatically hides the UI, to give you a good view of the picture.
 
 ### Delete All Lights
-
+To delete all the lights, select the menu in the top right corner, then tap on the trash can icon. All lights will be deleted from the scene.
