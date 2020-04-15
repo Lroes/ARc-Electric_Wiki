@@ -1,4 +1,4 @@
-
+![ARc-Light Logo](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/MicrosoftTeams-image.png)
 # ARc-Light Wiki
  
  This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way.
