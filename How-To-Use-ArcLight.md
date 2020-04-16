@@ -7,8 +7,9 @@ This page will walk through the UI and operation of the ARc-Light application, a
 To open ARc-Light, tap on the ARc-Light application on your phone. If it is your first time, you may need to allow the application access to your camera. This allows ARc-Light to use your devices camera to scan the room and detect planes, allowing you to place lights.
 
 ### Choose a light
-To chooses a light, tap on the top left menu button. A pop-up menu will appear, allowing you to choose between floor, ceiling, and wall light fixtures. After selecting the type of light, another menu will allow you to choose between a variety of wall, ceiling, or floor lights. After tapping on a light from the menu, it has been selected. Tap the top left button to collapse the menu and return to the main screen.
-
+To chooses a light, tap on the top left menu button. A pop-up menu will appear, allowing you to choose between floor, ceiling, and wall light fixtures. After selecting the type of light, another menu will allow you to choose between a variety of the type of lights you selected. After tapping on a light from the menu, it has been selected and can be placed.   
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Menu_light-type-select.jpg" alt="drawing" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Menu_Wall_lights.jpg" alt="drawing" width="250"/>
 ### Place a light
 To place a light, slowly move your device around until the camera detects a plane. When a plane is detected it will be indicated by a grid of white dots on the screen.  
   
@@ -26,7 +27,7 @@ Inside the radial menu, tap on the "crossed-out lightbulb" icon. This will toggl
 ### Adjust Colours and/or Brightness
 Inside the radial menu, tap on the "lightbulb and gear" icon. This will allow you to adjust the colour, range, and intensity of the light.  
 <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_light-colours.jpg" alt="drawing" width="250"/>
-
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Screenshot_20200413-183123_Arc-Electric.jpg" alt="drawing" width="250"/>
 ### Adjust Camera Bloom and Ambient Occlusion
 Inside the radial menu, tap on the "video settings" icon. This will allow you to adjust the camera bloom and ambient occlusion around the light. Camera Bloom is a shader effect that helps with the illusion that a light is glowing. Ambient Occlusion is a shader effect used to create more realistic light and shadows. (Both of these settings are quite subtle in ARc-Light, and you will likely see very little difference when adjusting them.)  
 <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_cam-bloom.jpg" alt="drawing" width="250"/>
