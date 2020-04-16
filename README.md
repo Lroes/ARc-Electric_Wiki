@@ -10,9 +10,9 @@
 
 <p align="center"> 
  
-    This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way.
+ This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way.
 
-    This wiki will contain useful information about the ARc-Light project, and will also highlight specific use cases where it could be helpful. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
+ This wiki will contain useful information about the ARc-Light project, and will also highlight specific use cases where it could be helpful. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
     <br> 
 </p>
 
