@@ -61,7 +61,7 @@ Inside the radial menu, tap on the "lightbulb and gear" icon. This will allow yo
 
 <div align="center">
 
-<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_light-colours.jpg" alt="colour settings icon" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_light-colours.jpg" alt="colour settings icon" width="260"/>
 <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Screenshot_20200413-183123_Arc-Electric.jpg" alt="colour and brightness menu" width="250"/>
 
 </div>
