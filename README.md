@@ -24,7 +24,7 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 
 ## 📝 Table of Contents
 
-* [Gettings Started](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/How-To-Use-ArcLight.md)
+* [Getting Started](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/How-To-Use-ArcLight.md)
 * [Compatibility](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
 * [FAQ](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/FAQs.md)
 * [Authors](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
