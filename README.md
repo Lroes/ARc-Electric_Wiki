@@ -35,5 +35,8 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 * [Our Software Requirements Specification](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
 
-
+## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+- Hat tip to anyone whose code was used
+- Inspiration
+- References
 *This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
