@@ -1,5 +1,4 @@
-# Who are the creators of ARc-Light?
-
+## ✍️ Authors <a name = "authors"></a>
 ARc-Light was designed and developed as a capstone project by a team of four students from Conestoga College in the Software Engineering Technology program. Normally none of us are allowed to talk to strangers on the internet, but since you're reading this page we'll make an exception.
 
 ### Kyle Horsley
