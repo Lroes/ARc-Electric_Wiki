@@ -34,7 +34,7 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 * [Our Software Requirements Specification](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
 
-## 🎉 Acknowledgements <a name = "acknowledgement"></a>
+## :star: Acknowledgements <a name = "acknowledgement"></a>
 * .
-* .
+* <a target="_blank" href="https://icons8.com/icons/set/light-on">Light On icon</a> icon by <a target="_blank" href="https://icons8.com">Icons8</a>
 * This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
