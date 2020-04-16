@@ -8,9 +8,7 @@
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 </div>
 
-<p align="center"> This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way. 
- 
- This wiki will contain useful information about the ARc-Light project, and will also highlight specific use cases where it could be helpful. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
+<p align="center"> This repo contains information on the ARc-Light application and was made for anyone interested in learning about the project. It functions as a wiki, and is meant to showcase the project in a more non-technical, user-friendly way. users who desire a more technical overview of the system, are encouraged to examine the software requirments specifications at the bottom. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
     <br> 
 </p>
 
@@ -26,11 +24,11 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 
 ## 📝 Table of Contents
 
-* [How to use ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/How-To-Use-ArcLight.md)
-* [Compatible Devices](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
+* [Gettings Started](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/How-To-Use-ArcLight.md)
+* [Compatibility](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
 * [FAQ](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/FAQs.md)
 * [Authors](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
-* [ARc-Light SRS](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
+* [ARc-Lite SRS](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
 
 ## :star: Acknowledgements <a name = "acknowledgement"></a>
