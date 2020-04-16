@@ -8,8 +8,7 @@
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 </div>
 
-<p align="center"> This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way.
-
+<p align="center"> This GitHub repository is meant to be a site containing information on the ARc-Light Application. This wiki was made for anyone interested in learning more about the ARc-Light project. While documents like the SRS are useful for laying out the exact technical specifications of a project, this wiki is meant to showcase the ARc-Light project in a more non-technical, user-friendly way. 
  This wiki will contain useful information about the ARc-Light project, and will also highlight specific use cases where it could be helpful. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
     <br> 
 </p>
@@ -24,7 +23,6 @@ Who is it for?
 We think that ARc-Light is for everyone! Especially in this time of social distancing and staying home, we hope that anyone can have some fun virtually messing around with their interior lighting. We also believe that ARc-Light has potential as a useful tool for electricians and interior designers. Being able to visualize where light fixtures will go will save time and improve client communication and satisfaction.
 
 <br> 
-
 ## 📝 Table of Contents
 
 * [How to use ARc-Light](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/How-To-Use-ArcLight.md)
@@ -34,7 +32,6 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 * [ARc-Lite SRS](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
 <br> 
-
 ## :star: Acknowledgements <a name = "acknowledgement"></a>
 * In app icons provided by <a target="_blank" href="https://icons8.com">Icons8</a>
 * This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
