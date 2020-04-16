@@ -128,8 +128,7 @@ To delete all the lights, select the menu in the top right corner, then tap on t
 
 <div align="center">
 
-<img src="" alt="multiple lights" width="250"/>
-<img src="" alt="delete button" width="250"/>
-<img src="" alt="multiple lights deleted" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Delete_All_button.jpg" alt="delete button" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Lights_deleted.jpg" alt="multiple lights deleted" width="250"/>
 
 </div>
