@@ -116,8 +116,9 @@ To take a screenshot, select the menu in the top right corner, then tap on the c
 
 <div align="center">
   
-<img src="" alt="screenshot button" width="250"/>
-<img src="" alt="sharing screen popup" width="250"/> 
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Screenshot_button.jpg" alt="screenshot button" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Share_screen.jpg" alt="sharing screen popup" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/screenshot_result.png" alt="shared screenshot" width="250"/>
 
 </div>
 
