@@ -8,8 +8,14 @@ To open ARc-Light, tap on the ARc-Light application on your phone. If it is your
 
 ### Choose a light
 To chooses a light, tap on the top left menu button. A pop-up menu will appear, allowing you to choose between floor, ceiling, and wall light fixtures. After selecting the type of light, another menu will allow you to choose between a variety of the type of lights you selected. After tapping on a light from the menu, it has been selected and can be placed.   
-<img style="center" src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Menu_light-type-select.jpg" alt="selecting a type of light" width="250"/>
-<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Menu_Wall_lights.jpg" alt="choosing a wall light fixture" width="250"/>
+
+<div align="center">
+
+  <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Menu_light-type-select.jpg" alt="selecting a type of light" width="250"/>
+  <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Menu_Wall_lights.jpg" alt="choosing a wall light fixture" width="250"/>
+
+</div>
+
 ### Place a light
 To place a light, slowly move your device around until the camera detects a plane. When a plane is detected it will be indicated by a grid of white dots on the screen.   
 <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/DetectPlane.jpg" alt="detecting a plane" width="250"/>
