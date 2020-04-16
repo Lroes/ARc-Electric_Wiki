@@ -9,7 +9,7 @@ Augmented Reality(AR) is an interactive experience of a real-world environment w
 
 
 ### Where can I download the App?
-ARc-Light will be available to download from the Google Play and Apple app store.
+ARc-Light will be available to download from the Google Play(Release day) and Apple app store(At a later date).
 
 
 ### Can my phone run ARc-Light?
@@ -17,7 +17,7 @@ You can determine that [here](https://github.com/Lroes/ARc-Electric_Wiki/blob/ma
 
 
 ### When will ARc-Light be released?
-Our target release date is April 26, 2020
+Our target release date is April 23, 2020
 
 
 ### Where can I report bugs?
