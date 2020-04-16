@@ -72,7 +72,7 @@ Inside the radial menu, tap on the "video settings" icon. This will allow you to
 
 <div align="center">
 
-<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_cam-bloom.jpg" alt="camera bloom icon" width="261"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_cam-bloom.jpg" alt="camera bloom icon" width="263"/>
 <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/cam-bloom-settings.jpg" alt="camera bloom settings view" width="250"/>
 
 </div>
