@@ -36,7 +36,6 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-- Hat tip to anyone whose code was used
-- Inspiration
-- References
+*
+*
 *This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
