@@ -1,8 +1,5 @@
 # :grey_question: Frequently asked questions
 
-This page is here to try and answer some of the questions that users might have about the ARc-Electric App.
-
-
 ### What is AR?
 Augmented Reality(AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information. AR is used to overlay the real world with digital components, in order to enhance or alter the user's real world experiences.
 
