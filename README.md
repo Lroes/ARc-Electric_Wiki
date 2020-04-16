@@ -16,8 +16,7 @@
     <br> 
 </p>
 
-## 🧐 About <a name = "about"></a>
-What is ARc-Light?
+## 🧐 About ARc-Light 
 ARc-Light is an Augmented Reality Mobile Application that simulates realistic indoor lighting in AR. Using ARc-Light, users can place different lighting fixtures in AR, and have them simulate casting light. This page will try and show what ARc-Light is all about, and how it can be useful to users.
 
 What can it do?
@@ -36,6 +35,6 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
-*
-*
-*This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
+* .
+* .
+* This GitHub based project wiki was inspired by the [Basecamp Employee Handbook](https://github.com/basecamp/handbook/blob/master/README.md).*
