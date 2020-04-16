@@ -1,4 +1,4 @@
-# Compatible devices
+# :iphone: Compatible devices
 
 Many people who are new to Augmented Reality might reasonably wonder if their mobile phone is even capable of running AR. This page is meant to be a general guide to help users learn if their phone will be able to run ARc-Light. 
 
