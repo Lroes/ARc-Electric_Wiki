@@ -5,7 +5,7 @@
 <div align="center">
  
   [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)]() 
-  [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+  [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](/LICENSE)
 </div>
 
 <p align="center"> This repo contains information on the ARc-Light application and was made for anyone interested in learning about the project. It functions as a wiki, and is meant to showcase the project in a more non-technical, user-friendly way. users who desire a more technical overview of the system, are encouraged to examine the software requirments specifications at the bottom. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
