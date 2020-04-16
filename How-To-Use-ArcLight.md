@@ -34,7 +34,7 @@ Inside the radial menu, tap on the "lightbulb and gear" icon. This will allow yo
 ### Adjust Camera Bloom and Ambient Occlusion
 Inside the radial menu, tap on the "video settings" icon. This will allow you to adjust the camera bloom and ambient occlusion around the light. Camera Bloom is a shader effect that helps with the illusion that a light is glowing. Ambient Occlusion is a shader effect used to create more realistic light and shadows. (Both of these settings are quite subtle in ARc-Light, and you will likely see very little difference when adjusting them.)  
 <img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Radial_cam-bloom.jpg" alt="camera bloom icon" width="250"/>
-<img src="" alt="camera bloom settings view" width="250"/>
+<img src="https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/cam-bloom-settings.jpg" alt="camera bloom settings view" width="250"/>
 
 ### Rotate Light
 Inside the radial menu, tap on the icon of a object being rotated. This rotation menu will allow you to adjust the light on its x, y, and z axis.  
