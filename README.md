@@ -28,7 +28,7 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 * [Compatibility](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Compatible-devices.md)
 * [FAQ](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/FAQs.md)
 * [Authors](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
-* [ARc-Lite SRS](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
+* [ARc-Light SRS](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
 
 ## :star: Acknowledgements <a name = "acknowledgement"></a>
