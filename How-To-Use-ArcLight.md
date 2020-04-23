@@ -3,7 +3,7 @@
 This page will walk through the UI and operation of the ARc-Light application, and give in-depth tutorials on each feature.
 
 ### Install ARc-Light
-To install ARc-Light, click on the link below or search for "ARc-Light" in the Google Play store. The IOS version ARc-Light is not available yet.  
+To install ARc-Light, click on the link below or search for "ARc-Light" in the Google Play store. The IOS version of ARc-Light is not yet available.  
 
 <div align="center">
 
