@@ -21,6 +21,11 @@ Using the device's camera, ARc-Light detects flat planes in a room, like the flo
 Who is it for?
 We think that ARc-Light is for everyone! Especially in this time of social distancing and staying home, we hope that anyone can have some fun virtually messing around with their interior lighting. We also believe that ARc-Light has potential as a useful tool for electricians and interior designers. Being able to visualize where light fixtures will go will save time and improve client communication and satisfaction.
 
+<div align="center">
+
+<a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
+
+</div>
 
 ## 📝 Table of Contents
 
