@@ -5,7 +5,11 @@ This page will walk through the UI and operation of the ARc-Light application, a
 ### Install ARc-Light
 To install ARc-Light, click on the link below or search for "ARc-Light" in the Google Play store. The IOS version ARc-Light is not available yet.  
 
-<a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='250'/></a>
+<div align="center">
+
+<a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
+
+</div>
 
 ### Open ARc-Light
 To open ARc-Light, tap on the ARc-Light application on your phone. If it is your first time, you may need to allow the application access to your camera. This allows ARc-Light to use your devices camera to scan the room and detect planes, allowing you to place lights.
