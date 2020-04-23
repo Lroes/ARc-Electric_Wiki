@@ -5,7 +5,13 @@ Augmented Reality(AR) is an interactive experience of a real-world environment w
 
 
 ### Where can I download the App?
-ARc-Light will be available to download from the Google Play(Release day) and Apple app store(At a later date).
+ARc-Light is available to download from the Google Play store at the link below. The IOS version is not yet availible.
+
+<div align="center">
+
+<a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
+
+</div>
 
 
 ### Can my phone run ARc-Light?
