@@ -6,7 +6,7 @@
  
   [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](/LICENSE)
-  <a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
+  
 </div>
 
 <p align="center"> This repo contains information on the ARc-Light application and was made for anyone interested in learning about the project. It functions as a wiki, and is meant to showcase the project in a more non-technical, user-friendly way. Users who desire a more technical overview of the system, are encouraged to examine the software requirements specifications at the bottom. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
@@ -31,6 +31,11 @@ We think that ARc-Light is for everyone! Especially in this time of social dista
 * [Authors](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Who-we-are.md)
 * [ARc-Light SRS](https://stuconestogacon-my.sharepoint.com/:w:/g/personal/lroes6742_conestogac_on_ca/EQ0l1tlp_-dMn4rH3In9qpwBGJK91Qyuv15O2lVsQaxXUQ?e=d4pfeL)
 
+<div align="center">
+ 
+ <a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
+
+</div>
 
 ## :star: Acknowledgements <a name = "acknowledgement"></a>
 * In app icons provided by <a target="_blank" href="https://icons8.com">Icons8</a>
