@@ -6,9 +6,10 @@
  
   [![Status](https://img.shields.io/badge/status-active-success.svg?style=for-the-badge)]() 
   [![License](https://img.shields.io/badge/license-MIT-blue.svg?style=for-the-badge)](/LICENSE)
+  <a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
 </div>
 
-<p align="center"> This repo contains information on the ARc-Light application and was made for anyone interested in learning about the project. It functions as a wiki, and is meant to showcase the project in a more non-technical, user-friendly way. users who desire a more technical overview of the system, are encouraged to examine the software requirments specifications at the bottom. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
+<p align="center"> This repo contains information on the ARc-Light application and was made for anyone interested in learning about the project. It functions as a wiki, and is meant to showcase the project in a more non-technical, user-friendly way. Users who desire a more technical overview of the system, are encouraged to examine the software requirements specifications at the bottom. We hope that this wiki will help make the ARc-Light application a bit more tangible and fully-realized, and we hope that you the reader will find it an interesting and informative project in the world of Augmented Reality.
     <br> 
 </p>
 
@@ -21,11 +22,6 @@ Using the device's camera, ARc-Light detects flat planes in a room, like the flo
 Who is it for?
 We think that ARc-Light is for everyone! Especially in this time of social distancing and staying home, we hope that anyone can have some fun virtually messing around with their interior lighting. We also believe that ARc-Light has potential as a useful tool for electricians and interior designers. Being able to visualize where light fixtures will go will save time and improve client communication and satisfaction.
 
-<div align="center">
-
-<a href='https://play.google.com/store/apps/details?id=com.ArcLight.ArcElectric&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width="250"/></a>
-
-</div>
 
 ## 📝 Table of Contents
 
