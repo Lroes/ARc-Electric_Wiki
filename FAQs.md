@@ -1,7 +1,9 @@
 # :grey_question: Frequently asked questions
 
 ### What is AR?
-Augmented Reality(AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information. AR is used to overlay the real world with digital components, in order to enhance or alter the user's real world experiences. You have probably already experienced AR while playing Pokemon GO or using a Snapchat filter!
+Augmented Reality(AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information. AR is used to overlay the real world with digital components, in order to enhance or alter the user's real world experiences. 
+
+You have likely already experienced AR while playing Pokemon GO or using a Snapchat filter!
 
 
 ### Where can I download the App?
