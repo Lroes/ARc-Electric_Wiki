@@ -2,7 +2,7 @@
 
 This page will walk through the UI and operation of the ARc-Light application, and give in-depth tutorials on each feature.
 
-If you would prefer video walkthrough, take a look at our tutorial videos:
+If you would prefer a video walkthrough, take a look at our tutorial videos:
 
 
 [![IMAGE ALT TEXT](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Playlist_Thumbnail.png)](https://www.youtube.com/playlist?list=PLm5EpbKu8W-NjHlxqwrQXpYIY8fc7ZXRB "ARc-Light Playlist")
