@@ -1,7 +1,7 @@
 # :grey_question: Frequently asked questions
 
 ### What is AR?
-Augmented Reality(AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information. AR is used to overlay the real world with digital components, in order to enhance or alter the user's real world experiences.
+Augmented Reality(AR) is an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information. AR is used to overlay the real world with digital components, in order to enhance or alter the user's real world experiences. You have probably already experienced AR while playing Pokemon GO or using a Snapchat filter!
 
 
 ### Where can I download the App?
@@ -19,7 +19,7 @@ You can determine that [here](https://github.com/Lroes/ARc-Electric_Wiki/blob/ma
 
 
 ### When will ARc-Light be released?
-Our target release date is April 23, 2020
+Our target release date is April 23, 2020. (IOS release will be at a later date)
 
 
 ### Where can I report bugs?
@@ -29,7 +29,7 @@ This section will be updated upon release.
 ### How was ARc-Light made?
 That's a big question!
 
-Short answer: We made ARc-Light using Unity and AR Foundation.
+Short answer: We made ARc-Light using C#, Unity and AR Foundation.
 
 Long answer: Check out our [Software Requirements Specification](https://1drv.ms/w/s!Aouocz2JfuPagcEwvtEJoEqcvWnikQ?e=U78O9v) for a more technical, detailed view.
 
