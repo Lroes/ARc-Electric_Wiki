@@ -2,6 +2,9 @@
 
 This page will walk through the UI and operation of the ARc-Light application, and give in-depth tutorials on each feature.
 
+If you would prefer video walkthrough, take a look at our tutorial videos:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLm5EpbKu8W-NjHlxqwrQXpYIY8fc7ZXRB" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Install ARc-Light
 To install ARc-Light, click on the link below or search for "ARc-Light" in the Google Play store. The IOS version of ARc-Light is not yet available.  
 
@@ -35,7 +38,7 @@ To place a light, slowly move your device around until the camera detects a plan
 
 
   
-Once a plane has been detected, and you have a light selected, You can place the light by tapping anywhere within the plane.  
+Once a plane has been detected, and you have a light selected, you can place the light by tapping anywhere within the plane.  
 
 <div align="center">
 
