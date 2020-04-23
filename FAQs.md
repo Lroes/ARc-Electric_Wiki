@@ -5,7 +5,7 @@ Augmented Reality(AR) is an interactive experience of a real-world environment w
 
 
 ### Where can I download the App?
-ARc-Light is available to download from the Google Play store at the link below. The IOS version is not yet availible.
+ARc-Light is available to download from the Google Play store at the link below. The IOS version is not yet available.
 
 <div align="center">
 
