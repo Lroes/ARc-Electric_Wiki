@@ -4,9 +4,9 @@ This page will walk through the UI and operation of the ARc-Light application, a
 
 If you would prefer video walkthrough, take a look at our tutorial videos:
 
-<div align="center">
-  [![IMAGE ALT TEXT](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Playlist_Thumbnail.png)](https://www.youtube.com/playlist?list=PLm5EpbKu8W-NjHlxqwrQXpYIY8fc7ZXRB "ARc-Light Playlist")
-</div>
+
+[![IMAGE ALT TEXT](https://github.com/Lroes/ARc-Electric_Wiki/blob/master/Images/Playlist_Thumbnail.png)](https://www.youtube.com/playlist?list=PLm5EpbKu8W-NjHlxqwrQXpYIY8fc7ZXRB "ARc-Light Playlist")
+
 
 ### Install ARc-Light
 To install ARc-Light, click on the link below or search for "ARc-Light" in the Google Play store. The IOS version of ARc-Light is not yet available.  
